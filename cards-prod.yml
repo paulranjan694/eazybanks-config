@@ -3,7 +3,7 @@ build:
 
 
 cards:
-  message: "Welcome to EazyBank Cards related Prod APIs from GitHub."
+  message: "Welcome to EazyBank Cards related Prod APIs from GitHub. 123"
   contactDetails:
     name: "John Doe - Prod"
     email: "john@eazybank.com"
